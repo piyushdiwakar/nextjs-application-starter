@@ -1,6 +1,6 @@
-# 🛍️ FashionStore - Myntra-like E-commerce App
+# 🛍️ FashionStore - FashionStore-like E-commerce App
 
-A modern, responsive e-commerce application built with Next.js, TypeScript, and Tailwind CSS. This project replicates the core functionality and design patterns of popular fashion e-commerce platforms like Myntra.
+A modern, responsive e-commerce application built with Next.js, TypeScript, and Tailwind CSS. This project replicates the core functionality and design patterns of popular fashion e-commerce platforms like FashionStore.
 
 ![FashionStore Preview](https://via.placeholder.com/800x400/000000/FFFFFF?text=FashionStore+E-commerce+App)
 
@@ -20,7 +20,7 @@ A modern, responsive e-commerce application built with Next.js, TypeScript, and 
 - **Checkout Process** with multi-step form validation
 
 ### 🎨 **Design & UX**
-- Modern, clean design inspired by Myntra
+- Modern, clean design inspired by FashionStore
 - Fully responsive layout for all devices
 - Professional typography and spacing
 - Smooth animations and hover effects
@@ -220,7 +220,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
 
-- Design inspiration from [Myntra](https://myntra.com)
+- Design inspiration from [FashionStore](https://FashionStore.com)
 - Built with [Next.js](https://nextjs.org)
 - UI components from [Shadcn/ui](https://ui.shadcn.com)
 - Styled with [Tailwind CSS](https://tailwindcss.com)
